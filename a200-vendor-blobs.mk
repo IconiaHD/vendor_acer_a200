@@ -41,7 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/acer/a200/proprietary/lib/hw/camera.tegra.so:/system/lib/hw/camera.tegra.so \
     vendor/acer/a200/proprietary/lib/hw/gps.tegra.so:/system/lib/hw/gps.tegra.so \
     vendor/acer/a200/proprietary/lib/hw/gralloc.tegra.so:/system/lib/hw/gralloc.tegra.so \
-    vendor/acer/a200/proprietary/lib/hw/hwcomposer.tegra_v0.so:/system/lib/hw/hwcomposer.tegra_v0.so \
+    vendor/acer/a200/proprietary/lib/hw/hwcomposer.tegra.so:/system/lib/hw/hwcomposer.tegra.so \
     vendor/acer/a200/proprietary/lib/hw/lights.picasso_e.so:/system/lib/hw/lights.picasso_e.so \
     vendor/acer/a200/proprietary/lib/hw/sensors.tegra.so:/system/lib/hw/sensors.tegra.so \
     vendor/acer/a200/proprietary/lib/libardrv_dynamic.so:/system/lib/libardrv_dynamic.so \
